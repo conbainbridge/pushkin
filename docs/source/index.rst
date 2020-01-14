@@ -3,25 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Pushkin's documentation!
+We've moved!
 ===================================
-"Getting Started" will get a very simple demo site up and running. The remaining pages explain how to customize your website. Instructions are geared towards someone who has at least some familiarity with javascript and react. Sections intended for more experienced programmers who need to understand the guts of Pushkin are labeled "DEV".
+Pushkin documentation is now found at `pushkin-social-science-at-scale.readthedocs.io <https://pushkin-social-science-at-scale.readthedocs.io/>`_.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   quickstart/index
-   development/development
-   cli/pushkin_cli
-   experiments/experiment_structure
-   usernames/index
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`search`
